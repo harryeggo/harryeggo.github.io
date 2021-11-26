@@ -1,9 +1,9 @@
 {
-    "id": "otcConferenceCenter",
+    "id": "otcConferenceCenter2",
     "name": "OTC Conference Center",
     "models": [
         {
-            "id": "design",
+            "id": "design2",
             "name": "OTC Conference Center Design"
         }
     ],
